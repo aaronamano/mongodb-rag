@@ -6,5 +6,6 @@
 
 <br>
 
-MONGODB_URI= <your mongodb uri as a string>
-LLM_API_KEY= <your api key as a string>
+MONGODB_URI= `<your mongodb uri as a string>`
+<br> 
+LLM_API_KEY= `<your api key as a string>`
